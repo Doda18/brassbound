@@ -1,5 +1,8 @@
 # 🛠️ BRASSBOUND MODPACK
 
+![image](https://github.com/user-attachments/assets/91fc4db4-3e94-406e-8208-42e9afbd7b2d)
+
+
 **Welcome to the Brassbound Modpack Repository!**  
 This repo contains all the updates and additions for the Brassbound Minecraft Server. If you’re here, congrats — you’re one of the special folks invited to play!
 
