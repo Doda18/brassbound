@@ -48,7 +48,7 @@ Make sure you've already redeemed the code and installed the Brassbound Modpack 
 
 ## 🚀 Looking Ahead
 
-Season 2 will aim to use a fully integrated CurseForge modpack that can update automatically. Until then, thanks for bearing with the manual process — and for being part of the Brassbound adventure!
+Season 2 will aim to use a fully integrated Modrinth modpack that can update automatically. Until then, thanks for bearing with the manual process — and for being part of the Brassbound adventure!
 
 ---
 
@@ -57,4 +57,4 @@ Season 2 will aim to use a fully integrated CurseForge modpack that can update a
 If you're having trouble or something seems broken, feel free to open an [Issue](../../issues) or message me directly.
 
 See you in-game!  
-— *The Admin*
+— Doda
